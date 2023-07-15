@@ -1,0 +1,156 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#navbar{
+    height: 150px;
+    color:white;
+    background-color: #3AA6B9;
+}
+#nkSisters{
+    color: black;
+    font-size: 100px;
+    padding-left: 500px;
+}
+a{
+    margin-right: 20px;
+    color: aliceblue;
+}
+#button{
+    margin-right: 1000px;
+}
+#catagory{
+    height: 500px;
+    margin-left: 250px;
+    color: aliceblue;
+}
+#a1{
+    height: 120px;
+    width: 150px;
+    background-image: url(women.jpg);
+    background-size: cover;
+    border: 5px solid aliceblue;
+    text-align: center;
+    border-radius: 10px;
+    margin: 5px;
+    padding-top: 5px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+#a2{
+    height: 120px;
+    width: 150px;
+    background-image: url(men.jpg);
+    background-size: cover;
+    border: 5px solid aliceblue;
+    text-align: center;
+    border-radius: 10px;
+    margin: 5px;
+    padding-top: 5px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+#a3{
+    height: 120px;
+    width: 150px;
+    background-image: url(kids.jpg);
+    background-size: cover;
+    border: 5px solid aliceblue;
+    text-align: center;
+    border-radius: 10px;
+    margin: 5px;
+    padding-top: 5px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+#a4{
+    height: 120px;
+    width: 150px;
+    background-image: url(footware.jpg);
+    background-size: cover;
+    border: 5px solid aliceblue;
+    text-align: center;
+    border-radius: 10px;
+    margin: 5px;
+    padding-top: 5px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+#a5{
+    height: 120px;
+    width: 150px;
+    background-image: url(beauty.jpg);
+    background-size: cover;
+    border: 5px solid aliceblue;
+    text-align: center;
+    border-radius: 10px;
+    margin: 5px;
+    padding-top: 5px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+#a6{
+    height: 120px;
+    width: 150px;
+    background-image: url(accessories.jpg);
+    background-size: cover;
+    border: 5px solid aliceblue;
+    text-align: center;
+    border-radius: 10px;
+    margin: 5px;
+    padding-top: 5px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+#a7{
+    height: 120px;
+    width: 150px;
+    background-image: url(jewellery.jpg);
+    background-size: cover;
+    border: 5px solid aliceblue;
+    text-align: center;
+    border-radius: 10px;
+    margin: 5px;
+    padding-top: 5px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+#a8{
+    height: 120px;
+    width: 150px;
+    background-image: url(more.jpg);
+    background-size: cover;
+    border: 5px solid aliceblue;
+    text-align: center;
+    border-radius: 10px;
+    margin: 5px;
+    padding-top: 5px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+#main{
+    background-color: #FF9EAA;
+    
+}
+#a{
+    background-color:black;
+    color: white;
+    height: 50px;
+    width: 200px;
+}
+#footer{
+    height: 50px;
+    color:white;
+    background-color:#C1ECE4;
+}
+p{
+    margin-left: 125px;
+}
